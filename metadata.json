@@ -1,0 +1,6 @@
+{
+  "name": "ApexView - Real-Time Market Analysis & Charting",
+  "description": "Professional financial charting and real-time market analytics platform with multi-timeframe candlestick charts, technical indicators, drawing tools, live paper trading, and depth of market.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
